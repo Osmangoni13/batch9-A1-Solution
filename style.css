@@ -93,7 +93,7 @@ body {
 
 .party-container {
     display: flex;
-    background-image: url("/images/Vectorrr.png");
+    background-image: url("images/Vectorrr.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
